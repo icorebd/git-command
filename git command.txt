@@ -91,3 +91,5 @@ git stash apply
 git stash list
 
 git stash pop <stash number>
+
+Dropped <stash number>
