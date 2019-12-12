@@ -38,7 +38,29 @@ ssh-add ~/.ssh/id_rsa
 
 clip < ~/.ssh/id_rsa.pub
 
-=====================================================
+
+
+
+
+
+=============remote origin connect http===================
+
+git remote add origin https://github.com/Samir1919/test.git
+
+git push -u origin master
+
+=============remote origin connect ssh===================
+
+git remote add origin git@github.com:Samir1919/test.git
+
+git push -u origin master
+
+
+
+
+
+
+
 
 
 git clone <file address> <if u need new name for project type here>
