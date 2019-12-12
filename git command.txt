@@ -38,6 +38,15 @@ ssh-add ~/.ssh/id_rsa
 
 clip < ~/.ssh/id_rsa.pub
 
+=====================================================
+
+
+git clone <file address> <if u need new name for project type here>
+
+git fetch
+
+git pull
+
 
 
 
