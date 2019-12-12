@@ -47,6 +47,6 @@ git fetch
 
 git pull
 
-
+git checkout -b <branch name>
 
 
